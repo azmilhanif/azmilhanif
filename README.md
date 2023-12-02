@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azmilhanif
+- 👋 Hello World! I’m @azmilhanif
 - 👀 I’m interested in Computer Science (especially Artificial Intelligence and Machine Learning)
-- 🌱 I’m currently learning to improve my coding skills
+- 🌱 I’m learning to improve my coding skills
 - 🎮 I'm also interested in video games and trying out game development
 
 <!---
